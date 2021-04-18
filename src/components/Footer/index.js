@@ -64,7 +64,7 @@ const Footer = () => {
                   </FooterLinksContainer>
                   <SocialMedia>
                       <SocialMediaWrap>
-                          <SocialLogo to='/' onClick={toggleHome}> Robot-Man </SocialLogo>
+                          <SocialLogo to='/Robot-man' onClick={toggleHome}> Robot-Man </SocialLogo>
                           <WebsitRights> Robot-Man @ {new Date().getFullYear()}   
                               All rights reserved.</WebsitRights>
 
