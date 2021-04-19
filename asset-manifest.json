@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Robot-man/static/css/main.1758645d.chunk.css",
-    "main.js": "/Robot-man/static/js/main.28854a53.chunk.js",
-    "main.js.map": "/Robot-man/static/js/main.28854a53.chunk.js.map",
+    "main.js": "/Robot-man/static/js/main.bfa4b00f.chunk.js",
+    "main.js.map": "/Robot-man/static/js/main.bfa4b00f.chunk.js.map",
     "runtime-main.js": "/Robot-man/static/js/runtime-main.d55f3184.js",
     "runtime-main.js.map": "/Robot-man/static/js/runtime-main.d55f3184.js.map",
     "static/js/2.8a398779.chunk.js": "/Robot-man/static/js/2.8a398779.chunk.js",
@@ -10,18 +10,18 @@
     "index.html": "/Robot-man/index.html",
     "static/css/main.1758645d.chunk.css.map": "/Robot-man/static/css/main.1758645d.chunk.css.map",
     "static/js/2.8a398779.chunk.js.LICENSE.txt": "/Robot-man/static/js/2.8a398779.chunk.js.LICENSE.txt",
-    "static/media/Ai.af6f522a.mp4": "/Robot-man/static/media/Ai.af6f522a.mp4",
     "static/media/robotics.35c0987e.svg": "/Robot-man/static/media/robotics.35c0987e.svg",
     "static/media/svg-2.c44126dd.svg": "/Robot-man/static/media/svg-2.c44126dd.svg",
     "static/media/svg-3.b17b3d42.svg": "/Robot-man/static/media/svg-3.b17b3d42.svg",
     "static/media/svg-4.4d047336.svg": "/Robot-man/static/media/svg-4.4d047336.svg",
     "static/media/svg-5.457db5d0.svg": "/Robot-man/static/media/svg-5.457db5d0.svg",
-    "static/media/svg1.05ce8a5d.svg": "/Robot-man/static/media/svg1.05ce8a5d.svg"
+    "static/media/svg1.05ce8a5d.svg": "/Robot-man/static/media/svg1.05ce8a5d.svg",
+    "static/media/video.3cc24476.mp4": "/Robot-man/static/media/video.3cc24476.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.d55f3184.js",
     "static/js/2.8a398779.chunk.js",
     "static/css/main.1758645d.chunk.css",
-    "static/js/main.28854a53.chunk.js"
+    "static/js/main.bfa4b00f.chunk.js"
   ]
 }
